@@ -1,0 +1,12 @@
+tbl_border_vdp_addr:dc.w $C210
+                dc.w $C220
+                dc.w $C230
+                dc.w $C58C
+                dc.w $C598
+                dc.w $C5A4
+                dc.w $C80C
+                dc.w $C818
+                dc.w $C824
+                dc.w $C8B0
+                dc.w $C5B0
+                dc.w $C730
